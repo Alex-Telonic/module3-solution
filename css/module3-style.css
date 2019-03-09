@@ -1,0 +1,95 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-color:008080;
+	color: black;
+	margin: 10px;
+}
+
+.container-fluid {
+	/* background-color: #4682B4; */
+
+	/* height: 80px; */
+}
+
+.navbar-brand p {
+	font-weight: bold;
+	color: black;
+}
+#collapsable-nav {
+	background-color: #5497E3;
+}
+
+#collapsable-nav ul a {
+	color: black;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+#largetext {
+	background-color: 808000;
+	padding: 15px;
+}
+
+
+#heading {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.75em;
+}
+
+.section {
+
+
+	position: relative;
+	margin: 15px;
+	border: 1px solid black;
+	
+	background-color: gray;
+
+}
+
+
+#title, #title1, #title2 {
+
+  margin: 0px !important;
+  float : right;
+  padding: 5px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black; 
+  font-size: 1.25em;
+
+}
+
+#title {
+  background-color: pink;
+
+
+}
+
+#title1 {
+  background-color: green;
+}
+
+#title2 {
+  background-color: red;
+  color: white;
+}
+
+#text {
+	clear: right;
+	margin: 40px;
+}
+
+
+
+ 
+
+
+
